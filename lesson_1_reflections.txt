@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It didn't. I would have seen a difference between space and spacr, but
+    was unable to detect the difference between enter and spacr.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would allow me to easily work in teams and see other people's work.
+    It can also help me remember changes I have made to find bugs,
+    incompatibilities and repeat those changes in a different part of the code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Committing manually allows to make logical sense and specify what has changed
+    in this latest version. This way it will be easy to find previous versions
+    and associated changes for me and other developers.
+    Automatically saving in regular intervals can be helpful when it is more
+    important to not lose the work you do, in a Word document, for example,
+    and you tend to forget to save often.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because in software development several files can be related and a change
+    in one file may require a change in another file as well. This is not typically
+    true when working with Google Docs, for example.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use them very tediously, unless there are commands to filter exactly
+    what I am looking for. We will see.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because now I know that I can always get back to a previous version, as well
+    as easily identify where the bug was introduced.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Not much, as we really haven't yet learned how to use git. I saw diff and
+    checkout, and not much else. How do we commit changes? What can we do
+    with a checked out version? How do we get back to the latest version. How
+    do we commit changes? How do we create a new branch, and what does that mean?
