@@ -21,10 +21,25 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches will be helpful when adding new or experiential features or a different
+	language, for example. A specific example may be that we created an app using
+	fragments, but now want to switch to using activities instead. While we are
+	experimenting, or if things go wrong, we still have the working version using
+	fragments.
+
 How do the diagrams help you visualize the branch structure?
+
+	Diagrams are visual representations of data or information. Since they are visual,
+	they help me visualize. Duh! They simplify complicated logic, or can brake them
+	into smaller pieces to digest.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	One branch gets merged into another, combining the changes made to both branches.
+	The currently checked out branch will always get merged when using git merge.
+	In the diagram we show it the way we do to represent that all the commits from
+	the merging branches now become part of the combined branch.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
