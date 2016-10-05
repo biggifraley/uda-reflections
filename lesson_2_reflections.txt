@@ -41,5 +41,7 @@ the diagram the way we do?
 	In the diagram we show it the way we do to represent that all the commits from
 	the merging branches now become part of the combined branch.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	I must have slept right through this - automatic vs manual?
