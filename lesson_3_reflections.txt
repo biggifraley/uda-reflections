@@ -25,14 +25,21 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows me to run the diff command to quickly compare the changes made
+    remotely and locally.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would probably have to collaborate in person or via email. It would be hard
+    to keep track of everybody's proposed changes / merges / pull requests. And,
+    it would be even harder comparing the changes and possible merge conflicts.
+    If we'd collaborate in person, it would be easier to ask quick questions and
+    consult with everyone involved.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    This is the best method when collaborating with other contributors. This way,
+    everyone can implement and test changes locally without any conflicts, until
+    we are ready to combine everyone's changes into the master branch.
